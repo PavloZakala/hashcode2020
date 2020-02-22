@@ -3,6 +3,10 @@
 ![Google Hash Code](https://i.imgur.com/KTDA2IL.png)
 
 My solutions for hashcode 2020 
+In this repository are presented two version of solution hashcode task in 2020. 
+
+ - solution_v1 - is the main solution, that give the best scores
+ - solution_v2 - is the refactored version of main code.
 
 Online Qualification Round
 
